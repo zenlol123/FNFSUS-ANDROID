@@ -417,6 +417,7 @@ class TitleState extends MusicBeatState
 		}
 	}
 
+	private var sickBeats:Int = 0;
 	private static var closedState:Bool = false;
 	override function beatHit()
 	{
