@@ -131,6 +131,7 @@ class MainMenuState extends MusicBeatState
 
 		#if ACHIEVEMENTS_ALLOWED
 		Achievements.loadAchievements();
+		var achievementID:Int = 0;
 		var leDate = Date.now();
 		if (!Achievements.isAchievementsUnlocked[achievementID][1] && leDate.getDay() == 5 && leDate.getHours() >= 18) { //It's a friday night. WEEEEEEEEEEEEEEEEEE
 			Achievements.isAchievementsUnlocked[achievementID][1] = true;
