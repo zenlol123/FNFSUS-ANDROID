@@ -46,12 +46,6 @@ class CreditsState extends MusicBeatState
 		add(grpOptions);
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
-	  ['Sus Mod Crew'],
-		['Vitamina Carlos',		'vitamin',	'Artist/Coder/Song Remixer and main idea',				         'https://twitter.com/VitaminaCarlos',	0xFF76428A],
-		['Retrospect Gamer',    'retro',    'Charting and coding help.',                                    'https://www.youtube.com/c/RetrospectGamer', 0xFF0F5C6C],
-		['Frappe',              'frappe',   'Background Artist',                                    'https://twitter.com/Frappeepee', 0xFFFF1C18],
-		['Hypey',               'hypey',    'Made these icons!',                                    'https://twitter.com/Hypey__', 0xFF696969],
-		['Aqua',               '',    'Coding and charting help',                                    'https://twitter.com/AquaThatOne', 0xFF127F2D],
 			['Psych Engine Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Psych Engine Team'],
@@ -66,7 +60,7 @@ class CreditsState extends MusicBeatState
 			['SandPlanet',			'sandplanet',		'Mascot\'s Owner\nMain Supporter of the Engine',		'https://twitter.com/SandPlanetNG',	'0xFFD10616'],
 			['bubba',				'bubba',		'Guest Composer for "Hot Dilf"',	'https://www.youtube.com/channel/UCxQTnLmv0OAS63yzk9pVfaw',	'0xFF61536A'],
 			[''],
-			['Funkin Crew'],
+			["Funkin' Crew"],
 			['ninjamuffin99',		'ninjamuffin99',	"Programmer of Friday Night Funkin'",				'https://twitter.com/ninja_muffin99',	'0xFFF73838'],
 			['PhantomArcade',		'phantomarcade',	"Animator of Friday Night Funkin'",					'https://twitter.com/PhantomArcade3K',	'0xFFFFBB1B'],
 			['evilsk8r',			'evilsk8r',			"Artist of Friday Night Funkin'",					'https://twitter.com/evilsk8r',			'0xFF53E52C'],
