@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_anim.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="purple0000" x="0" y="0" width="664" height="393"/>
+	<SubTexture name="purple0001" x="0" y="0" width="664" height="393"/>
+	<SubTexture name="purple0002" x="664" y="0" width="664" height="393"/>
+	<SubTexture name="purple0003" x="664" y="0" width="664" height="393"/>
+	<SubTexture name="purple0004" x="1328" y="0" width="664" height="393"/>
+	<SubTexture name="purple0005" x="1328" y="0" width="664" height="393"/>
+	<SubTexture name="purple0006" x="0" y="393" width="664" height="393"/>
+	<SubTexture name="purple0007" x="0" y="393" width="664" height="393"/>
+	<SubTexture name="purple0008" x="664" y="393" width="664" height="393"/>
+	<SubTexture name="purple0009" x="664" y="393" width="664" height="393"/>
+	<SubTexture name="purple0010" x="664" y="393" width="664" height="393"/>
+	<SubTexture name="purple0011" x="664" y="393" width="664" height="393"/>
+	<SubTexture name="purple0012" x="664" y="393" width="664" height="393"/>
+	<SubTexture name="purple0013" x="664" y="393" width="664" height="393"/>
+</TextureAtlas>

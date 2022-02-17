@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="purpleBounceTitle.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="purple_title0000" x="0" y="0" width="727" height="665" frameX="0" frameY="0" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0001" x="0" y="0" width="727" height="665" frameX="0" frameY="0" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0002" x="727" y="0" width="727" height="665" frameX="0" frameY="0" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0003" x="0" y="0" width="727" height="665" frameX="0" frameY="0" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0004" x="0" y="0" width="727" height="665" frameX="0" frameY="-1" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0005" x="1454" y="0" width="727" height="665" frameX="0" frameY="-1" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0006" x="2181" y="0" width="727" height="665" frameX="0" frameY="-2" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0007" x="2181" y="0" width="727" height="665" frameX="0" frameY="-3" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0008" x="1454" y="0" width="727" height="665" frameX="0" frameY="-4" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0009" x="2181" y="0" width="727" height="665" frameX="0" frameY="-6" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0010" x="2181" y="0" width="727" height="665" frameX="0" frameY="-8" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0011" x="1454" y="0" width="727" height="665" frameX="0" frameY="-10" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0012" x="1454" y="0" width="727" height="665" frameX="0" frameY="-13" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0013" x="1454" y="0" width="727" height="665" frameX="0" frameY="-15" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0014" x="2181" y="0" width="727" height="665" frameX="0" frameY="-18" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0015" x="2908" y="0" width="727" height="664" frameX="0" frameY="-21" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0016" x="2908" y="0" width="727" height="664" frameX="0" frameY="-21" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0017" x="0" y="665" width="727" height="664" frameX="0" frameY="-21" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0018" x="727" y="665" width="727" height="665" frameX="0" frameY="-20" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0019" x="0" y="665" width="727" height="664" frameX="0" frameY="-20" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0020" x="727" y="665" width="727" height="665" frameX="0" frameY="-19" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0021" x="727" y="665" width="727" height="665" frameX="0" frameY="-19" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0022" x="727" y="665" width="727" height="665" frameX="0" frameY="-17" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0023" x="727" y="665" width="727" height="665" frameX="0" frameY="-16" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0024" x="727" y="665" width="727" height="665" frameX="0" frameY="-15" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0025" x="727" y="665" width="727" height="665" frameX="0" frameY="-13" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0026" x="2908" y="0" width="727" height="664" frameX="0" frameY="-10" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0027" x="727" y="0" width="727" height="665" frameX="0" frameY="-6" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0028" x="0" y="0" width="727" height="665" frameX="0" frameY="-3" frameWidth="727" frameHeight="685"/>
+	<SubTexture name="purple_title0029" x="0" y="0" width="727" height="665" frameX="0" frameY="0" frameWidth="727" frameHeight="685"/>
+</TextureAtlas>
