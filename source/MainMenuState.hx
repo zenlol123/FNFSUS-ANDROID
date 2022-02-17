@@ -149,7 +149,7 @@ class MainMenuState extends MusicBeatState
 		super.create();
 	}
 
-	#ar selectedSomethin:Bool = false;
+	var selectedSomethin:Bool = false;
 
 	override function update(elapsed:Float)
 	{
