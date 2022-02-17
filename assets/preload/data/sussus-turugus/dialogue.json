@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Well well well, look who's wondering around\\.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "purple"
+		},
+		{
+			"expression": "talk",
+			"text": "?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Don't act like you don't know shit.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "purple"
+		},
+		{
+			"expression": "talk",
+			"text": "You too alone here in medbay just faking\\ntasks like two little angels.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "purple"
+		},
+		{
+			"expression": "talk",
+			"text": "I've got you two, you're totally busted.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "purple"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Do you have any concrete proof that we\\nare impostors?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "..............",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "purple"
+		},
+		{
+			"expression": "pissed",
+			"text": "N-No",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "purple"
+		},
+		{
+			"expression": "talk",
+			"text": "But I know damn well you're hiding something\\.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "purple"
+		},
+		{
+			"expression": "talk",
+			"text": "And I'll get both of you out of this ship.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "purple"
+		},
+		{
+			"expression": "pissed",
+			"text": "And I'll do It right the fuck now.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "purple"
+		}
+	]
+}
