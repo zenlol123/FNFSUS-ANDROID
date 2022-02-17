@@ -1,0 +1,30 @@
+{
+	"storyName": "Suspiciously Unidentified Suspect",
+	"hideFreeplay": false,
+	"weekBackground": "medbay",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Sussus-turugus",
+			"purple",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "S.U.S"
+}
