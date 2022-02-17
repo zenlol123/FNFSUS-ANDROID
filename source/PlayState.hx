@@ -639,6 +639,11 @@ class PlayState extends MusicBeatState
 					bg.antialiasing = false;
 					add(bg);
 				}
+				
+			case 'gummybear':
+				var bg:BGSprite = new BGSprite('imposter_bg', -559.45, -632.7);
+				add(bg);
+				
 		}
 
 		if(isPixelStage) {
