@@ -1,30 +1,21 @@
 {
 	"songs": [
-		[
-			"imposter",
-			"imposter",
-			[
-				255,
-				33,
-				73
-			]
-		]
+		["Its a me", "marioex", [71, 15, 15]],
+		["Golden Land", "mario-land", [71, 15, 15]]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "stage",
+
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"storyName": "Your New Week",
-	"weekName": "Custom Week",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": true,
+	"weekBackground": "stage",
+
+	"storyName": "Daddy Dearest",
 	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
 }
