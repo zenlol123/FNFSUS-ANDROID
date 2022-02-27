@@ -1,21 +1,31 @@
 {
 	"songs": [
-		["Its a me", "marioex", [71, 15, 15]],
-		["Golden Land", "mario-land", [71, 15, 15]]
+		[
+			"horocram",
+			"soruv",
+			[
+				166,
+				133,
+				253
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
 	"weekCharacters": [
-		"dad",
+		"",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
+	"storyName": "vs soruv (demo)",
+	"weekName": "week soruv",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
